@@ -77,6 +77,17 @@ font-weight:bold;
 font-family:Arial, Helvetica, sans-serif;
 }
 
+#header h3
+{
+position:relative;
+left:35px;
+top:21px;
+color:#F6F6F6;
+text-align:left;
+font-size:17px;
+font-weight:bold;
+font-family:Arial, Helvetica, sans-serif;
+}
 
 #bar
 {
@@ -140,6 +151,15 @@ background-repeat:no-repeat;
 margin-left:10px;
 padding-top:8px;
 font-size:20px;
+font-weight:bold;
+color:#071027;
+}
+
+.contentTitle h3
+{
+margin-left:10px;
+padding-top:8px;
+font-size:16px;
 font-weight:bold;
 color:#071027;
 }
